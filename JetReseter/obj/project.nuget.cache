@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ZS2Tm5DJCnxrCbEYoaXnz4ABjImrbT/HvyVYWRpPvG/UqzAoM1PJV+saKT32CJCmztxN1ftHOKrCMa8tyh8xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roman\\Desktop\\JetBrainsReseter-main\\JetReseter\\JetReseter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
